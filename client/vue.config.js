@@ -4,6 +4,6 @@ module.exports = defineConfig({
     'vuetify'
   ],
   devServer:{
-    proxy:"http://localhost:5000", //backend adress
+    proxy:"https://pases-parking-dbem.com", //backend address
   }
 })
